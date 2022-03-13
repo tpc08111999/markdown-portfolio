@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- [ ] Read daily 10 pages of any books :heart: 
+- [ ] Write a practice coding :sparkles:
